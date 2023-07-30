@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1](https://github.com/breakersun/release_playground/compare/v0.3.0...v0.3.1) (2023-07-30)
+
+
+### Bug Fixes
+
+* seems I missed id for release-please step ([d3122a9](https://github.com/breakersun/release_playground/commit/d3122a9a574a3cf80f46e2c6eceb13437a6abcd1))
+* wrong syntax ([78ff8bd](https://github.com/breakersun/release_playground/commit/78ff8bd8d9f6e3233d35b905b4ccc37509782eb6))
+
 ## [0.3.0](https://github.com/breakersun/release_playground/compare/v0.2.0...v0.3.0) (2023-07-30)
 
 

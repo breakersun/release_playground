@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.3](https://github.com/breakersun/release_playground/compare/v0.3.2...v0.3.3) (2023-07-30)
+
+
+### Bug Fixes
+
+* wrong path for artifacts ([e349514](https://github.com/breakersun/release_playground/commit/e349514202fa15bfba82cda7ba0bddd30a11d452))
+
 ## [0.3.2](https://github.com/breakersun/release_playground/compare/v0.3.1...v0.3.2) (2023-07-30)
 
 

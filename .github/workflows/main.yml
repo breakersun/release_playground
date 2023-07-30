@@ -18,6 +18,9 @@ jobs:
         with:
           release-type: simple
           package-name: release-please-action
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: publish artifacts
         if: ${{ steps.release.outputs.release_created }}
         env:

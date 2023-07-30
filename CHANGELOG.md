@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/breakersun/release_playground/compare/v0.1.2...v0.2.0) (2023-07-30)
+
+
+### Features
+
+* trying to upload artifacts ([2216c73](https://github.com/breakersun/release_playground/commit/2216c7336e47301b47b979c9ee98d90f296dd76c))
+* upload artifacts ([9a9b758](https://github.com/breakersun/release_playground/commit/9a9b758df5e01cba9e02db9ba23a0833232444ff))
+
 ## [0.1.2](https://github.com/breakersun/release_playground/compare/v0.1.1...v0.1.2) (2023-07-30)
 
 

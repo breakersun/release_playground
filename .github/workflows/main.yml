@@ -19,7 +19,7 @@ jobs:
           release-type: simple
           package-name: release-please-action
       - name: publish artifacts
-        if: ${{ needs.release-please.outputs.releases_created }}
+        if: ${{ steps.release.outputs.release_created }}
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run:

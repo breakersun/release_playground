@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.4](https://github.com/breakersun/release_playground/compare/v0.3.3...v0.3.4) (2023-07-30)
+
+
+### Bug Fixes
+
+* wrong path ([841097d](https://github.com/breakersun/release_playground/commit/841097d7c0523625a9473b96bb2c6b9162fdf771))
+
 ## [0.3.3](https://github.com/breakersun/release_playground/compare/v0.3.2...v0.3.3) (2023-07-30)
 
 

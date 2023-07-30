@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/breakersun/release_playground/compare/v0.1.1...v0.1.2) (2023-07-30)
+
+
+### Bug Fixes
+
+* another bug ([46ba7f2](https://github.com/breakersun/release_playground/commit/46ba7f210b3806c6025f0516e824166b3c668855))
+
 ## [0.1.1](https://github.com/breakersun/release_playground/compare/v0.1.0...v0.1.1) (2023-07-30)
 
 

@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
+        id: release
         with:
           release-type: simple
           package-name: release-please-action
       - name: publish artifacts
         if: ${{ needs.release-please.outputs.releases_created }}
-        uses: svenstaro/upload-release-action@v2
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: version.txt
-          tag: ${{ needs.release-please.outputs.tag_name }}
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          run:
+            gh release upload ${{ steps.release.outputs.tag_name }} ./artifact/some-build-artifact.zip

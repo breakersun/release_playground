@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.1](https://github.com/breakersun/release_playground/compare/v0.4.0...v0.4.1) (2023-08-01)
+
+
+### Bug Fixes
+
+* another repo ([47d69a9](https://github.com/breakersun/release_playground/commit/47d69a952a9968403d5d8c68cf4c05760459e56a))
+* typo ([8e7ba1c](https://github.com/breakersun/release_playground/commit/8e7ba1c51036ae7a92f667fb381dcfbc164a08c3))
+
 ## [0.4.0](https://github.com/breakersun/release_playground/compare/v0.3.4...v0.4.0) (2023-08-01)
 
 

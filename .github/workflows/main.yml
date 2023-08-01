@@ -25,6 +25,7 @@ jobs:
         run: make version.h
       - name: publish artifacts
         if: ${{ steps.release.outputs.release_created }}
+
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run:

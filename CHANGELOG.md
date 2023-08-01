@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.0](https://github.com/breakersun/release_playground/compare/v0.3.4...v0.4.0) (2023-08-01)
+
+
+### Features
+
+* a little improve with make ([7fe0e6d](https://github.com/breakersun/release_playground/commit/7fe0e6da99d83bc60ce044427e5179b20b52bcde))
+* add commit-hash tool ([117fd03](https://github.com/breakersun/release_playground/commit/117fd031e182445a67ae22066a7fe51d2303c9dd))
+* call make to build ([d8787fb](https://github.com/breakersun/release_playground/commit/d8787fb67f6bc8347b71a2efff76c750cdd7e9f6))
+
 ## [0.3.4](https://github.com/breakersun/release_playground/compare/v0.3.3...v0.3.4) (2023-07-30)
 
 

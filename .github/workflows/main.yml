@@ -22,7 +22,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: build
-        run: make
+        run: make version.h
       - name: publish artifacts
         if: ${{ steps.release.outputs.release_created }}
         env:

@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.0](https://github.com/breakersun/release_playground/compare/v0.4.1...v0.5.0) (2023-08-01)
+
+
+### Features
+
+* add make target ([02da4c6](https://github.com/breakersun/release_playground/commit/02da4c64c29c843aac91e612def15689e53aa557))
+
+
+### Bug Fixes
+
+* some typo ([774022a](https://github.com/breakersun/release_playground/commit/774022a20fb5f7c48443b53ab1828b9589195dfa))
+
 ## [0.4.1](https://github.com/breakersun/release_playground/compare/v0.4.0...v0.4.1) (2023-08-01)
 
 

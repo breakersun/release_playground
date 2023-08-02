@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/breakersun/release_playground/compare/v0.5.0...v0.6.0) (2023-08-02)
+
+
+### Features
+
+* main change ([e26bfe7](https://github.com/breakersun/release_playground/commit/e26bfe737768e30c5a1990419ab302e4390d4dff))
+
 ## [0.5.0](https://github.com/breakersun/release_playground/compare/v0.4.1...v0.5.0) (2023-08-01)
 
 

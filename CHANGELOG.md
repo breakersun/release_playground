@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.8.0](https://github.com/breakersun/release_playground/compare/v0.7.0...v0.8.0) (2023-08-28)
+
+
+### Features
+
+* another feat on sdk3.4 ([681589b](https://github.com/breakersun/release_playground/commit/681589bc0896e417f60d438b7ad422cf222138ff))
+* another feat on sdk3.4 ([4cac509](https://github.com/breakersun/release_playground/commit/4cac509207c0a12d4602e71e7d8983a288287d9e))
+* ready to release ([20b1c95](https://github.com/breakersun/release_playground/commit/20b1c9550f98e7e5348b0e130b84b758627d72c1))
+* this is a sdk3.4 feature ([5ee3e76](https://github.com/breakersun/release_playground/commit/5ee3e769ac49c72e05ffb6407cf6e74c015cc852))
+
 ## [0.7.0](https://github.com/breakersun/release_playground/compare/v0.6.0...v0.7.0) (2023-08-02)
 
 

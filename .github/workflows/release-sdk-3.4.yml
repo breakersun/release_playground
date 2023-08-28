@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - sdk3.4
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        id: release
+        with:
+          release-type: simple
+          package-name: release-please-action
+          default-branch: sdk3.4
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: build
+        run: make version.h
+      - name: publish artifacts
+        if: ${{ steps.release.outputs.release_created }}
+
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run:
+          gh release upload ${{ steps.release.outputs.tag_name }} ./version*

@@ -30,5 +30,4 @@ jobs:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release upload ${{ steps.release.outputs.tag_name }} ./version* \
-          ./output/debug/CortexM0/*.hex \
-          ./output/release/CortexM0/*.hex
+          ./output/**/CortexM0/*.hex

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://github.com/breakersun/release_playground/compare/v0.12.0...v0.13.0) (2023-10-25)
+
+
+### Features
+
+* simple wildcard for release and debug ([38e4fc9](https://github.com/breakersun/release_playground/commit/38e4fc9c981410afb3c282762a07d87cf25b05dd))
+
 ## [0.12.0](https://github.com/breakersun/release_playground/compare/v0.11.0...v0.12.0) (2023-10-25)
 
 

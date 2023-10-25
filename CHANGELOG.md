@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://github.com/breakersun/release_playground/compare/v0.11.0...v0.12.0) (2023-10-25)
+
+
+### Features
+
+* rename release hex name ([a0ce376](https://github.com/breakersun/release_playground/commit/a0ce37654023e62d0121793b623ac1d2a1f895c2))
+
 ## [0.11.0](https://github.com/breakersun/release_playground/compare/v0.10.0...v0.11.0) (2023-10-25)
 
 

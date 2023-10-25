@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/breakersun/release_playground/compare/v0.9.0...v0.10.0) (2023-10-25)
+
+
+### Features
+
+* fix paths for gh release ([74a3774](https://github.com/breakersun/release_playground/commit/74a37746d9860fe5d4a35d459792bd7c621157bf))
+
 ## [0.9.0](https://github.com/breakersun/release_playground/compare/v0.8.0...v0.9.0) (2023-10-25)
 
 
